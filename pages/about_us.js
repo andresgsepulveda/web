@@ -51,6 +51,19 @@ function AboutUs() {
             Our History
         </Typography>
         <Container>
+        
+        <Container>
+            <p id="about_title" style={body_heading_style}>
+                ABOUT US
+            </p>
+            <p id="about_content" style={body_content_style} className={light}>
+                PIL is a unique community which inculcates the spirit of student research.
+                Students work with like-minded peers to try and solve carefully chosen real-world problems.
+                The Lab’s activities include the flagship summer internship, HashCode (a hackathon), RoadShow (A project presentation event) and other enriching opportunities such as workshops and tutorials.<br/><br/>
+                Students here, routinely push the boundaries of research by developing products to benefit the masses and publishing their work in conferences and journals of repute. Interns continue working with the lab while in college, sharing insights, starting new projects and mentoring subsequent batches of student interns.<br/><br/>
+                Over the years, the members of PIL have grown into a close-knit family who contribute to the lab long after their graduation.
+            </p>
+        </Container>
             
         </Container>
         <Container>
